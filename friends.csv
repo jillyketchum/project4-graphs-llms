@@ -1,0 +1,26 @@
+Source, Target, Weight
+Ross, Rachel, 10
+Chandler, Monica, 9
+Chandler, Ross, 6
+Joey, Chandler, 8
+Phoebe, Monica, 5
+Ross, Phoebe, 3
+Joey, Rachel, 4
+Ross, Joey, 6
+Rachel, Monica, 7
+Phoebe, Chandler, 4
+Monica, Phoebe, 5
+Chandler, Phoebe, 6
+Rachel, Phoebe, 8
+Monica, Joey, 7
+Chandler, Joey, 9
+Ross, Rachel, 10
+Phoebe, Rachel, 6
+Ross, Chandler, 8
+Joey, Ross, 7
+Monica, Ross, 9
+Rachel, Joey, 5
+Phoebe, Joey, 4
+Rachel, Chandler, 5
+Monica, Chandler, 8
+
